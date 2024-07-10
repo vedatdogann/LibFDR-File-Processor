@@ -3,8 +3,11 @@
 ## Amaç:
 Bu projede, veri dosyasından okunan komutlara göre çıkış dosyası oluşturan bir programı C dilinde geliştirmek amaçlanmıştır. Program, giriş dosyasındaki komutları işleyerek belirtilen özel karakterler ve komutlar doğrultusunda çıktı dosyasını üretir. Komutların anlamları: 
 yaz: Rakam karakter-> Rakam adedince karakterden basar.
+
 sil: Rakam karakter-> bulunan noktadan geri doğru tarar, istenen karakterlerden bulduğunu adedince siler. Aradığından yeterince bulamazsa başa kadar gider, bulamadım diye dönüş yapar.
+
 sonagit: Rakam karakter-> Dosyanın sonuna gider
+
 dur: Rakam karakter-> tüm komutların icrasından oluşan veriyi dosyaya yazar ve programdan çıkılır.
 
 ## ÖZET:
