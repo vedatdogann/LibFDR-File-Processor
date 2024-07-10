@@ -35,8 +35,5 @@ Proje dizininde aşağıdaki komutu çalıştırarak projeyi derleyebilirsiniz:
 make
 
 
-## Örnek Resimler
-![libfhoto](https://github.com/vedatdogann/LibFDR-File-Processor/assets/104203746/355c2139-fe3c-4ca6-91c6-003f4f70e640)
-![libfdrfhotoo](https://github.com/vedatdogann/LibFDR-File-Processor/assets/104203746/8bbe4919-3f81-4691-8c4b-e142eef7df45)
 
 
