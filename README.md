@@ -11,7 +11,7 @@ sonagit: Rakam karakter-> Dosyanın sonuna gider
 
 dur: Rakam karakter-> tüm komutların icrasından oluşan veriyi dosyaya yazar ve programdan çıkılır.
 
-Proje ayrıntıları için  [LibfdrRapor.docx](LibfdrRapor.docx)
+Proje ayrıntıları için [LibfdrRapor.docx](LibfdrRapor.docx) inceleyiniz.
 
 ## ÖZET:
 Program Giris.dat’ ı okumaya başlar ve onune gelen komutlara gore işlemler yaparak Sonuc.dat’ sonuçları yazdırır. Bu projede çift yonlu bağıl liste kullanılmıştır. Libfdr kütüphanesi kullanılarak işlemleri kolaylaştırılmıştır.
